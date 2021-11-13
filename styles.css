@@ -228,7 +228,7 @@ body {
 }
 
 /* toggle cart to visible */
-.transparentBcg {
+.cartVisible {
 	visibility: visible;
 }
 
